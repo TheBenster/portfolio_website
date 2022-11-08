@@ -1,0 +1,9 @@
+.head-header {
+    padding-left: 30px;
+    align-items: center;
+    display: flex;
+    background-color: rgb(41, 44, 51);
+    color:white;
+    float: inline-end;
+}
+
